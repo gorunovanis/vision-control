@@ -1,0 +1,40 @@
+{
+  "camera_id": 0,
+  "cooldown": 0.45,
+  "hot": true,
+  "hand": {
+    "triggers": {
+      "fist": { "action": "none", "repeat": false },
+      "palm": { "action": "none", "repeat": false },
+      "point": { "action": "move_mouse", "repeat": true },
+      "peace": { "action": "none", "repeat": false },
+      "three": { "action": "none", "repeat": false },
+      "four": { "action": "none", "repeat": false },
+      "pinch": { "action": "lmb", "repeat": false },
+      "ok": { "action": "enter", "repeat": false },
+      "thumbs_up": { "action": "vol_up", "repeat": false },
+      "thumbs_down": { "action": "vol_down", "repeat": false },
+      "rock": { "action": "media_play", "repeat": false },
+      "call": { "action": "none", "repeat": false },
+      "swipe_left": { "action": "alt_tab", "repeat": false },
+      "swipe_right": { "action": "new_tab", "repeat": false },
+      "swipe_up": { "action": "scroll_up", "repeat": false },
+      "swipe_down": { "action": "scroll_down", "repeat": false }
+    }
+  },
+  "eye": {
+    "blink_threshold": 0.19,
+    "triggers": {
+      "blink_left": { "action": "lmb", "repeat": false },
+      "blink_right": { "action": "rmb", "repeat": false },
+      "blink_both": { "action": "double_lmb", "repeat": false },
+      "wink_left": { "action": "none", "repeat": false },
+      "wink_right": { "action": "none", "repeat": false },
+      "look_left": { "action": "none", "repeat": false },
+      "look_right": { "action": "none", "repeat": false },
+      "look_up": { "action": "none", "repeat": false },
+      "look_down": { "action": "none", "repeat": false },
+      "gaze": { "action": "none", "repeat": true }
+    }
+  }
+}

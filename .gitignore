@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+models/
+*.pyc
+bindings.json
+.idea/
+.gigacode_vsc/
